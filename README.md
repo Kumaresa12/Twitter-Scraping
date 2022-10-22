@@ -63,3 +63,9 @@ Install the required libraries before running the code and install MongoDB. Conn
 ### CHALLENGES FACED
 
 The main challenge faced was storing the data in pymongo. It took more time to solve the problem compared to other things. We required to add hashtag with those scraping data and then make them into one collection. With few attempts the problem solved.
+
+## VIDEO TUTORIAL
+
+
+https://user-images.githubusercontent.com/108707363/197346847-b98a4aa8-8e76-4c49-a969-ee6480e78c6b.mp4
+
