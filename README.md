@@ -1,4 +1,4 @@
-# Twitter-Scraping
+# Twitter-Scrapping
 **Are you tired of collecting data from twitter?** <br />
 You got the solution now. <br />
 Just follow the steps to scrap data from hashtags and not only just scrapping. You can store those data in json and csv files. Need more? Okay... You have another option too. Store those data in Mongodb. 
@@ -17,7 +17,7 @@ The code helps to scrap data from twitter through hashtag. It scrapes data like 
 
 *Pandas* - used for dataframe
 
-*snscrape* - used for scraping twitter data
+*snscrape* - used for scrapping twitter data
 
 *streamlit* - used for web layout
 
