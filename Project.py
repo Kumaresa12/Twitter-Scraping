@@ -41,7 +41,7 @@ def storage(fd, tag):  # Function for storing  data in MongoDB
     return st.info('Data Stored successfully')
 
 
-st.title('Twitter scraping')
+st.title('Twitter scrapping')
 name = st.text_input("Enter hashtag: ")
 hashtag = '#' + name
 
