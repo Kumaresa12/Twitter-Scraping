@@ -35,9 +35,9 @@ import libraries given below <br />
 ![Screenshot (18)](https://user-images.githubusercontent.com/108707363/197338512-fa9279d3-b663-4640-a141-8fe8b56dc568.png)
 
 Below code produces web layout < br />
+![Screenshot (30)](https://user-images.githubusercontent.com/108707363/197348740-8690d245-adab-4c79-b96d-6444634d6f58.png)
+![Screenshot (29)](https://user-images.githubusercontent.com/108707363/197348754-c1cd7a97-5875-4cc8-a7b6-bd3ae4b9c227.png)
 
-![Screenshot (20)](https://user-images.githubusercontent.com/108707363/197338704-c8ff09c9-c71b-4cc0-a225-1d70a48749fd.png)
-![Screenshot (21)](https://user-images.githubusercontent.com/108707363/197338843-f5ff4a68-a952-4b48-9f50-a5958ee1065f.png)
 
 After entering hashtag, Date range and number of tweets , click submit button. <br />
 You will get a display of table with date, id, url, tweet content, user name, reply count, retweet count, language, source, like count of each tweets related to hashtags
