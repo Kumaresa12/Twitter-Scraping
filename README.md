@@ -58,7 +58,7 @@ The code calls the storage function to store those data combining everything wit
 ![Screenshot (28)](https://user-images.githubusercontent.com/108707363/197340075-0c9f1a87-5c19-4d6f-9037-8d9d6c868ab9.png)
 
 ## RUNNING THE CODE:
-Install the required libraries before running the code and install MongoDB. Connect the locol host of Mongodb. Then run the program in a python IDE.
+Install the required libraries before running the code and install MongoDB. Connect the local host of Mongodb. Copy the code and run the it in a python IDE.
 
 ### CHALLENGES FACED
 
